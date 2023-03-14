@@ -64,13 +64,16 @@ Desenvolvido pela DevStore, este projeto possui como objetivo contruir uma aplic
 - **GitLab:** Utilizado para repositório e controle de código do projeto.
 
 ### :writing_hand: Contribuições Pessoais
-- Documentação
-- Arquitetura inicial do projeto (Backend, Frontend e Banco de Dados)
-- Cadastro de Usuário
-- Envio de e-mail
-- Criação de Salas e Cerimônias
-- Finalização de Atividades
-- CRUD Retrospectivas
+- Documentação utilizando MS Office
+- Arquitetura inicial do projeto
+  - Backend utilizando Java SpringBoot
+  - Frontend utilizando ReactJS
+  - Banco de Dados utilizando PostgreSQL
+- Cadastro de Usuário no frontend com ReactJS e no backend com Java, utilizando criptografia
+- Envio de e-mail com Java
+- Criação de Salas e Cerimônias (Backend, Frontend e Banco de Dados)
+- Finalização de Atividades (Apoio no Backend)
+- CRUD Retrospectivas (Backend e Banco de Dados)
 
 ### :potted_plant: Skills
 #### Hard Skills
@@ -81,6 +84,6 @@ Desenvolvido pela DevStore, este projeto possui como objetivo contruir uma aplic
 <p><sub><i>Legenda: :green_circle:	Sei fazer | :yellow_circle:	Sei fazer com ajuda/com dificuldade | :red_circle: Apenas ouvi falar </i></sub></p>
 
 #### Soft Skills
-Este projeto exigiu bastante **disciplina** e **proatividade**, além do **trabalho em equipe**.
+Este projeto exigiu bastante **disciplina** por ser um projeto com escopo maior que dos outros semestres, sendo que ainda estávamos realizando as atividades de forma remota, e **proatividade** para apoio mútuo entre a equipe, pois ainda estávamos aprendendo a utilizar APIs e a criar um Chat, e precisamos dividir bem as atividades, nos ajudando conforme surgiam dificuldades, necessitando também de muito **trabalho em equipe**.
 
 ### <a href="https://gitlab.com/vitorlimadomingues/3periodo_devstore"> :link: Repositório Original </a>
