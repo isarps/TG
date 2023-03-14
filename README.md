@@ -27,11 +27,11 @@
 
 # :open_file_folder: Projetos
 
-- <a href="https://github.com/isarps/bertoti/blob/main/tg1/projeto1.md">Projeto 1 - G6</a>
-- <a href="https://github.com/isarps/bertoti/blob/main/tg1/projeto2.md">Projeto 2 - DevStore</a>
-- <a href="https://github.com/isarps/bertoti/blob/main/tg1/projeto3.md">Projeto 3 - Planning</a>
-- <a href="https://github.com/isarps/bertoti/blob/main/tg1/projeto4.md">Projeto 4 - Hey Alexia</a>
-- <a href="https://github.com/isarps/bertoti/blob/main/tg1/projeto5.md">Projeto 5 - Persuance</a>
+- <a href="https://github.com/isarps/TG/blob/main/projeto1.md">Projeto 1 - G6</a>
+- <a href="https://github.com/isarps/TG/blob/main/projeto2.md">Projeto 2 - DevStore</a>
+- <a href="https://github.com/isarps/TG/blob/main/projeto3.md">Projeto 3 - Planning</a>
+- <a href="https://github.com/isarps/TG/blob/main/projeto4.md">Projeto 4 - Hey Alexia</a>
+- <a href="https://github.com/isarps/TG/blob/main/projeto5.md">Projeto 5 - Persuance</a>
 
 <hr/>
 
