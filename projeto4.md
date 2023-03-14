@@ -26,26 +26,30 @@ Criado pela equipe Sanja Valley, este projeto visa desenvolver uma aplicação p
 
 ### :computer:	Tecnologias Utilizadas
 - **CSS:** Foi utilizado para a estilização do sistema.
-- **HTML:** Linguagem de marcação utilizada na construção de páginas na Web.
+- **HTML:** Utilizada na construção de páginas na Web.
 - **JavaScript:** Utilizado para as funções do front-end, em conjunto com o VueJS.
-- **VueJS:** Vue.js é um framework JavaScript de código-aberto, focado no desenvolvimento de interfaces de usuário e aplicativos de página única. Foi utilizado para o desenvolvimento do front-end da aplicação.
+- **VueJS:** Foi o framework utilizado para o desenvolvimento do front-end da aplicação.
 - **PrimeVue:** Biblioteca com componentes estilizados que foi utilizada para o desenvolvimento da UI (User Interface).
 - **Visual Studio Code:** Editor de código-fonte utilizado para o desenvolvimento do front-end.
 - **Java:** Linguagem de programação utilizada para o desenvolvimento do back-end.
-- **SpringBoot:** O Spring é um framework open source para a plataforma Java. Trata-se de um framework não intrusivo, baseado nos padrões de projeto inversão de controle e injeção de dependência. Foi utilizado para o desenvolvimento do back-end, implementação de métodos, classes e etc, com base na Programação Orientada a Objetos.
+- **SpringBoot:** Foi utilizado para o desenvolvimento do back-end, implementação de métodos, classes e etc, com base na Programação Orientada a Objetos.
 - **Gradle:** Sistema de automação de compilação de código utilizado para executar o sistema localmente e para realizar a gestão das dependências.
-- **IntelliJ IDE:** O IntelliJ IDEA é um ambiente de desenvolvimento integrado escrito em Java para desenvolver software. Foi utilizado para o desenvolvimento do backend.
-- **Oracle/Oracle Cloud:** O Oracle é um Sistema Gerenciador de Banco de Dados que surgiu no fim dos anos 70. Foi utilizado para o desenvolvimento do banco de dados relacional do projeto.
+- **IntelliJ IDE:** IDE utilizada para o desenvolvimento do backend.
+- **Oracle/Oracle Cloud:** Foi utilizado para o desenvolvimento do banco de dados relacional do projeto, que posteriormente foi migrado para Cloud.
 - **Oracle SQL Developer:** Ambiente de desenvolvimento integrado que foi utilizado para trabalhar com SQL em bancos de dados Oracle.
 - **GitHub:** Utilizado para repositório e controle de código do projeto.
 
 ### :writing_hand: Contribuições Pessoais
-- Documentação
-- Arquitetura inicial do projeto (Backend, Frontend e Banco de Dados)
+- Documentação utilizando MS Office
+- Arquitetura inicial do projeto
+  - Backend utilizando Java SpringBoot
+  - Frontend utilizando VueJS
+  - Banco de Dados utilizando Oracle
 - Dashboard com Gráficos e Cards
-- Frontend Importação CSV
-- Frontend Login/Cadastro/Edição de Usuário
-- Envio de E-mail
+  - Frontend com VueJS e PrimeVue para exibição dos cards e estilização da tela
+- Frontend Importação CSV com VueJS
+- Frontend Login/Cadastro/Edição de Usuário com VueJS
+- Envio de E-mail no Backend utilizando bibliotecas de envio de e-mail do Java, como JavaMailSender e SimpleMailMessage
 
 ### :potted_plant: Skills
 #### Hard Skills
@@ -57,6 +61,6 @@ Criado pela equipe Sanja Valley, este projeto visa desenvolver uma aplicação p
 <p><sub><i>Legenda: :green_circle:	Sei fazer | :yellow_circle:	Sei fazer com ajuda/com dificuldade | :red_circle: Apenas ouvi falar </i></sub></p>
 
 #### Soft Skills
-Neste projeto desenvolvi melhor a **comunicação**, mantendo contato mais frequente e próximo com a equipe.
+Neste projeto desenvolvi melhor a **comunicação**, mantendo contato mais frequente e próximo com a equipe, que foi necessário pois as atividades foram realizadas presencialmente, exigindo uma organização diferente e um contato mais próximo com os colegas. 
 
 ### <a href="https://github.com/EquipeFatec/api"> :link: Repositório Original </a>
