@@ -67,13 +67,13 @@ A proposta é um sistema de digitação e edição de contas, que envolve um age
 
 ### :writing_hand: Contribuições Pessoais
 - Documentação
-  - Apoio no desenvolvimento dos manuais Técnico e do Usuário
+  - Apoio no desenvolvimento dos manuais Técnico e do Usuário, utilizando as ferramentas do MS Office
   - Reuniões com a equipe para definição dos Story Cards
-  - Modelagem do Banco de Dados
+  - Modelagem do Banco de Dados utilizando brModelo
 - Classes iniciais
-  - Model de Login, Usuario, Cliente e ContaLuz
-  - View de Login
-- Login do sistema
+  - Model de Login, Usuario, Cliente e ContaLuz, utilizando a linguagem Java
+  - View de Login, utilizando JavaFX
+- Login básico do sistema utilizando Java
 
 ### :potted_plant: Skills
 #### Hard Skills
@@ -84,6 +84,6 @@ A proposta é um sistema de digitação e edição de contas, que envolve um age
 <p><sub><i>Legenda: :green_circle:	Sei fazer | :yellow_circle:	Sei fazer com ajuda/com dificuldade | :red_circle: Apenas ouvi falar </i></sub></p>
 
 #### Soft Skills
-Foi um projeto importante para o desenvolvimento da **comunicação** e da **organização** para a execução das atividades atribuídas a cada um.
+Foi o primeiro projeto com a equipe e o primeiro realizado no curso de Banco de Dados, então foi muito importante a **comunicação**, principalmente por ser em fase de pandemia, onde todas as atividades foram feitas de forma remota, utilizando ferramentas como o Microsoft Teams e o Google Meet para as reuniões, como também foi muito importante a **organização** para a execução das atividades atribuídas a cada um e para agendamento das reuniões, onde informávamos o status das atividades, as dificuldades, pendências e atividades futuras.
 
 ### <a href="https://github.com/rangelandrade/PI-GRUPO-6"> :link: Repositório Original </a>
