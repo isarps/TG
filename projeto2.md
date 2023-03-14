@@ -33,9 +33,13 @@ A meta do projeto é apresentar ao cliente, a empresa VISIONA, uma solução par
 - **QGIS:** Foi utilizado para a análise e verificação dos arquivos Shapefile.
 
 ### :writing_hand: Contribuições Pessoais
-- Documentação (Readme, User Stories, Wireframes, Modelagem do Banco de Dados)
+- Documentação
+    - Readme no Git
+    - Apio na criação das User Stories
+    - Wireframes na ferramenta Diagrams (Draw.io)
+    - Modelagem do Banco de Dados no brModelo
 - Análise dos Shapefiles no QGIS
-- Download e leitura dos arquivos referentes ao CAR (Cadastro Ambiental Rural)
+- Download e leitura dos arquivos referentes ao CAR (Cadastro Ambiental Rural) utilizando a plataforma online 
 
 ### :potted_plant: Skills
 #### Hard Skills
@@ -47,6 +51,6 @@ A meta do projeto é apresentar ao cliente, a empresa VISIONA, uma solução par
 <p><sub><i>Legenda: :green_circle:	Sei fazer | :yellow_circle:	Sei fazer com ajuda/com dificuldade | :red_circle: Apenas ouvi falar </i></sub></p>
 
 #### Soft Skills
-O **trabalho em equipe** foi o ponto forte neste projeto, mantendo as reuniões frequentes para acompanhamento e desenvolvimento do projeto, e também a **flexibilidade** para buscar novos conhecimentos.
+O **trabalho em equipe** foi o ponto forte neste projeto, mantendo as reuniões frequentes para acompanhamento e desenvolvimento do projeto, sendo que ainda estávamos realizando as atividades de forma remota, e também a **flexibilidade** para buscar novos conhecimentos, pois a maioria das ferramentas utilizadas eram novas, principalmente a parte de georreferenciamento.
 
 ### <a href="https://gitlab.com/junio.sendreto/projeto_pi3"> :link: Repositório Original </a>
