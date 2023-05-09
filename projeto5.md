@@ -23,19 +23,25 @@ Criado pela equipe Sanja Valley, este projeto visa desenvolver uma aplicação p
 </details>
 
 ### :computer:	Tecnologias Utilizadas
-- CSS
-- HTML
-- JavaScript
-- VueJS
-- PrimeVue
-- Visual Studio Code
-- Java
-- SpringBoot
-- Gradle
-- IntelliJ IDE
-- MySQL
+- CSS: Foi utilizado para a estilização do sistema.
+- HTML: Utilizada na construção de páginas na Web.
+- JavaScript: Utilizado para as funções do front-end, em conjunto com o VueJS.
+- VueJS: Foi o framework utilizado para o desenvolvimento do front-end da aplicação.
+- PrimeVue: Biblioteca com componentes estilizados que foi utilizada para o desenvolvimento da UI (User Interface).
+- Visual Studio Code: Editor de código-fonte utilizado para o desenvolvimento do front-end.
+- Java: Linguagem de programação utilizada para o desenvolvimento do back-end.
+- SpringBoot: Foi utilizado para o desenvolvimento do back-end, implementação de métodos, classes e etc, com base na Programação Orientada a Objetos.
+- Gradle: Sistema de automação de compilação de código utilizado para executar o sistema localmente e para realizar a gestão das dependências.
+- IntelliJ IDE: IDE utilizada para o desenvolvimento do backend.
+- MySQL: Foi utilizado para o desenvolvimento do banco de dados relacional do projeto
 
 ### :writing_hand: Contribuições Pessoais
-- Product Owner, levantamento de requisitos
+- Atuação como Product Owner, mantendo contato direto com o cliente para o levantamento e definição de requisitos, bem como aprovação do Backlog e das entregas
+- Documentação utilizando MS Office
+- Arquitetura inicial do projeto
+  - Backend utilizando Java SpringBoot
+  - Frontend utilizando VueJS
 
-### <a href="https://github.com/EquipeFatec/api-5"> :link: Repositório Original </a>
+### Repositório Original
+<b><a href="https://github.com/EquipeFatec/persuance-backend"> :link: Backend </a></b><br/>
+<b><a href="https://github.com/EquipeFatec/persuance-frontend"> :link: Frontend </a></b><br/>
