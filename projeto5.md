@@ -34,13 +34,33 @@ Criado pela equipe Sanja Valley, este projeto visa desenvolver uma aplicação p
 - Gradle: Sistema de automação de compilação de código utilizado para executar o sistema localmente e para realizar a gestão das dependências.
 - IntelliJ IDE: IDE utilizada para o desenvolvimento do backend.
 - MySQL: Foi utilizado para o desenvolvimento do banco de dados relacional do projeto
+- Github: Utilizado para armazenamento do repositório do Projeto
+- Github Actions: Utilizado para criação dos Scripts da Pipeline de Build e Test
 
 ### :writing_hand: Contribuições Pessoais
-- Atuação como Product Owner, mantendo contato direto com o cliente para o levantamento e definição de requisitos, bem como aprovação do Backlog e das entregas
+- Atuação como Product Owner, mantendo contato direto com o cliente para o levantamento e definição de requisitos, bem como aprovação do Backlog e das entregas das Sprints
 - Documentação utilizando MS Office
 - Arquitetura inicial do projeto
   - Backend utilizando Java SpringBoot
   - Frontend utilizando VueJS
+- Consulta de palavras de um texto no Frontend utilizando VueJS e PrimeVue
+- Listagem de Classes Gramaticais com Dropwdown do VueJS e ENUM no Backend Java
+- Ajustes na Lista de Palavras para edição e exclusão de palavras no Frontend com VueJS
+- Edição e Exclusão de Palavras no Backend com Java/Spring, com a utilização de biliotecas Java (como Hibernate e Lombok)
+- Scripts da Pipeline - DevOps utilizando Github Actions
+- Organização de Backlogs e Sprints no Jira
+
+### :potted_plant: Skills
+#### Hard Skills
+- :green_circle: SpringBoot/Java
+- :yellow_circle: VueJS
+- :green_circle: MySQL 
+- :green_circle: GitHub
+- :yellow_circle: Github Actions
+<p><sub><i>Legenda: :green_circle:	Sei fazer | :yellow_circle:	Sei fazer com ajuda/com dificuldade | :red_circle: Apenas ouvi falar </i></sub></p>
+
+#### Soft Skills
+Neste projeto desenvolvi melhor a habilidade de **Solução de Problemas**, pois foi necessário um aprofundamento no estudo de DevOps e da criação e manutenção de Pipelines. Também desenvolvi a habilidade de **Negociação**, tendo contato frequente com o cliente, realizando o levantamento e a definição dos requisitos do projeto e averiguando as necessidades de desenvolvimento juntamente à equipe.
 
 ### Repositório Original
 <b><a href="https://github.com/EquipeFatec/persuance-backend"> :link: Backend </a></b><br/>
