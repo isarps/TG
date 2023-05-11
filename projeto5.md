@@ -19,7 +19,29 @@ Criado pela equipe Sanja Valley, este projeto visa desenvolver uma aplicação p
   <img src="https://user-images.githubusercontent.com/49652498/236965619-32aebdb9-900a-4567-b50b-366c3bcb78cc.png"><br/>
   - Tela de Criação e Edição de Palavras<br/>
   <img src="https://user-images.githubusercontent.com/49652498/236965939-18fd505d-b753-4520-9228-751c0fd5f977.png"><br/>
-  
+</details>
+
+<details>
+  <summary><b> Telas </b></summary>
+  - Tela Inicial (Busca de Palavras - Usuário Padrão)<br/>
+  <img src="https://github.com/isarps/TG/assets/49652498/f0bbc595-40d9-426d-bdff-862fa3c8d8a3"><br/>
+  - Exibição de Palavra<br/>
+  <img src="https://github.com/isarps/TG/assets/49652498/8aa17f2c-7544-4900-ae42-8ee0d998ebe5"><br/>
+  - Modal de Busca de texto<br/>
+  <img src="https://github.com/isarps/TG/assets/49652498/2ba0049c-3a76-4485-8a09-b65b6e123573"><br/>
+  - Exibição de palavras aprovadas em um texto<br/>
+  <img src="https://github.com/isarps/TG/assets/49652498/05cceeab-db30-4103-80ee-e196b200f500"><br/>
+  - Login Administrador<br/>
+  <img src="https://github.com/isarps/TG/assets/49652498/753a5228-5d67-49a4-bbb8-5297f04251b2"><br/>
+  - Tela Inicial (Busca de Palavras - Administrador) com Menu de Opções<br/>
+  <img src="https://github.com/isarps/TG/assets/49652498/de1f1464-ab6e-49f1-ab72-6eb4463b50da"><br/>
+  - Cadastro de Palavras<br/>
+  <img src="https://github.com/isarps/TG/assets/49652498/14fc9988-e3d1-4d92-9a3e-4bafcf9fa481"><br/>
+  - Listagem e Filtro de Palavras<br/>
+  <img src="https://github.com/isarps/TG/assets/49652498/7aa86081-bdc6-413c-b2f9-31ffb09ec5e0"><br/>
+  - Edição de Palavras pela Tela de Listagem<br/>
+  <img src="https://github.com/isarps/TG/assets/49652498/d7dba136-0c28-4c5b-8a72-77086107594a"><br/>
+
 </details>
 
 ### :computer:	Tecnologias Utilizadas
