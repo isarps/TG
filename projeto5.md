@@ -61,7 +61,7 @@ Criado pela equipe Sanja Valley, este projeto visa desenvolver uma aplicação p
 
 ### :writing_hand: Contribuições Pessoais
 - Atuação como Product Owner, mantendo contato direto com o cliente para o levantamento e definição de requisitos, bem como aprovação do Backlog e das entregas das Sprints
-- Documentação utilizando MS Office
+- Documentação
 - Arquitetura inicial do projeto
   - Backend utilizando Java SpringBoot
   - Frontend utilizando VueJS
