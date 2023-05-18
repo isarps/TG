@@ -40,7 +40,7 @@ Criado pela equipe Sanja Valley, este projeto visa desenvolver uma aplicação p
 - **GitHub:** Utilizado para repositório e controle de código do projeto.
 
 ### :writing_hand: Contribuições Pessoais
-- Documentação utilizando MS Office
+- Documentação
 - Arquitetura inicial do projeto
   - Backend utilizando Java SpringBoot
   - Frontend utilizando VueJS
