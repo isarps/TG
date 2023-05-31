@@ -32,6 +32,7 @@
 - <a href="https://github.com/isarps/TG/blob/main/projeto3.md">Projeto 3 - Planning</a>
 - <a href="https://github.com/isarps/TG/blob/main/projeto4.md">Projeto 4 - Hey Alexia</a>
 - <a href="https://github.com/isarps/TG/blob/main/projeto5.md">Projeto 5 - Persuance</a>
+- <a href="https://github.com/isarps/TG/blob/main/projeto6.md">Projeto 6 - iFest</a>
 
 <hr/>
 
