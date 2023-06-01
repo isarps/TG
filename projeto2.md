@@ -1,5 +1,8 @@
 # Projeto 2 - DevStore
-1° Semestre de 2021 <br/>
+1° Semestre de 2021 <br/><br/>
+<img src="https://github.com/isarps/TG/assets/49652498/b256a982-6eba-4a96-90f4-a1c31d5f6a0f" width="30%"/>
+
+<hr/>
 
 ### :office: Empresa Parceira
 ![image](https://user-images.githubusercontent.com/49652498/204660571-7bcd300c-9fc5-4987-9ee4-85acaed67121.png) <br/>
