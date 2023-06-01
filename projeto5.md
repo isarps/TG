@@ -63,17 +63,7 @@ Criado pela equipe Sanja Valley, este projeto visa desenvolver uma aplicação p
 - Github Actions: Utilizado para criação dos Scripts da Pipeline de Build e Test
 
 ### :writing_hand: Contribuições Pessoais
-- Atuação como Product Owner, mantendo contato direto com o cliente para o levantamento e definição de requisitos, bem como aprovação do Backlog e das entregas das Sprints
-- Documentação
-- Arquitetura inicial do projeto
-  - Backend utilizando Java SpringBoot
-  - Frontend utilizando VueJS
-- Consulta de palavras de um texto no Frontend utilizando VueJS e PrimeVue
-- Listagem de Classes Gramaticais com Dropwdown do VueJS e ENUM no Backend Java
-- Ajustes na Lista de Palavras para edição e exclusão de palavras no Frontend com VueJS
-- Edição e Exclusão de Palavras no Backend com Java/Spring, com a utilização de biliotecas Java (como Hibernate e Lombok)
-- Scripts da Pipeline - DevOps utilizando Github Actions
-- Organização de Backlogs e Sprints no Jira
+Atuei como Product Owner, mantendo contato direto com o cliente para o levantamento e definição de requisitos, bem como aprovação do Backlog e das entregas das Sprints. Desenvolvi a Aquirtetura Inicial do projeto (Backend utilizando Java SpringBoot e Frontend utilizando VueJS). Com relação às funcionalidades, implementei a consulta de palavras de um texto no Frontend utilizando VueJS e PrimeVue, a listagem de Classes Gramaticais com Dropwdown do VueJS e ENUM no Backend Java, realizei ajustes na Lista de Palavras para edição e exclusão de palavras no Frontend com VueJS e implementei a edição e exclusão de Palavras no Backend com Java/Spring, com a utilização de biliotecas Java (como Hibernate e Lombok). Também implementei os Scripts da Pipeline (DevOps utilizando Github Actions) e realizeri a organização de Backlogs e Sprints no Jira, bem como o desenvolvimento de documentações.
 
 ### :potted_plant: Skills
 #### Hard Skills
