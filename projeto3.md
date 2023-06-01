@@ -64,16 +64,7 @@ Desenvolvido pela DevStore, este projeto possui como objetivo contruir uma aplic
 - **GitLab:** Utilizado para repositório e controle de código do projeto.
 
 ### :writing_hand: Contribuições Pessoais
-- Documentação
-- Arquitetura inicial do projeto
-  - Backend utilizando Java SpringBoot
-  - Frontend utilizando ReactJS
-  - Banco de Dados utilizando PostgreSQL
-- Cadastro de Usuário no frontend com ReactJS e no backend com Java, utilizando criptografia
-- Envio de e-mail com Java
-- Criação de Salas e Cerimônias (Backend, Frontend e Banco de Dados)
-- Finalização de Atividades (Apoio no Backend)
-- CRUD Retrospectivas (Backend e Banco de Dados)
+Neste projeto, auxiliei na documentação, implantei a arquitetura inicial do projeto (Backend utilizando Java SpringBoot, Frontend utilizando ReactJS e Banco de Dados utilizando PostgreSQL), realizeri o cadastro de Usuário no frontend com ReactJS e no backend com Java, utilizando criptografia, implementei o envio de e-mail com Java, a criação de Salas e Cerimônias (Backend, Frontend e Banco de Dados), a finalização de Atividades (Apoio no Backend) e o CRUD de Retrospectivas (Backend e Banco de Dados).
 
 ### :potted_plant: Skills
 #### Hard Skills
