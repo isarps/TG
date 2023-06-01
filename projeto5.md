@@ -1,5 +1,8 @@
 # Projeto 5 - Persuance
-2° Semestre de 2022 <br/>
+2° Semestre de 2022 <br/><br/>
+<img src="https://github.com/isarps/TG/assets/49652498/bbecdc2f-b768-406d-b2d7-fb664261b1a1" width='40%'/><br/>
+
+<hr/>
 
 ### :office: Empresa Parceira
 <img src="https://user-images.githubusercontent.com/49652498/236961388-fa998d87-e309-4582-b9e0-395db953d520.png" width='30%'/><br/>
