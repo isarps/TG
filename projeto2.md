@@ -36,13 +36,7 @@ A meta do projeto é apresentar ao cliente, a empresa VISIONA, uma solução par
 - **QGIS:** Foi utilizado para a análise e verificação dos arquivos Shapefile.
 
 ### :writing_hand: Contribuições Pessoais
-- Documentação
-    - Readme no Git
-    - Apio na criação das User Stories
-    - Wireframes na ferramenta Diagrams (Draw.io)
-    - Modelagem do Banco de Dados no brModelo
-- Análise dos Shapefiles no QGIS
-- Download e leitura dos arquivos referentes ao CAR (Cadastro Ambiental Rural) utilizando a plataforma online 
+Neste projeto, atuei na documentação realizando as atualizações do Readme no Git, criando os Wireframes na ferramenta Diagrams (Draw.io) e a modelagem do Banco de Dados no brModelo. Apoiei também na criação das User Stories. Além disso, fiz a análise de Shapefiles no QGIS e o download/leitura dos arquivos referentes ao CAR (Cadastro Ambiental Rural) utilizando a plataforma online  
 
 ### :potted_plant: Skills
 #### Hard Skills
