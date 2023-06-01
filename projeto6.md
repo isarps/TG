@@ -1,5 +1,8 @@
 # Projeto 6 - iFest
-1° Semestre de 2023 <br/>
+1° Semestre de 2023 <br/><br/>
+<img src="https://github.com/isarps/TG/assets/49652498/f0b8b9eb-cd4f-40dc-a306-9ff9e3a4e70f" width='40%'/><br/>
+
+<hr/>
 
 ### :office: Empresa Parceira
 <img src="https://github.com/isarps/TG/assets/49652498/dbfe6cb4-4efa-4fff-a553-d5428803b2de" width='30%'/><br/>
