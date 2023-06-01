@@ -1,5 +1,8 @@
 # Projeto 4 - Hey Alexia
-1° Semestre de 2022 <br/>
+1° Semestre de 2022 <br/><br/>
+<img src="https://github.com/isarps/TG/assets/49652498/4ca6ce47-706a-4644-8c81-ef1cc1d7ba9c" width='30%'/><br/>
+
+<hr/>
 
 ### :office: Empresa Parceira
 <img src="https://user-images.githubusercontent.com/49652498/204661338-8d561001-fda9-45a9-9671-5cc57bb449ca.png" width='20%'/><br/>
