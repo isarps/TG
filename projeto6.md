@@ -39,21 +39,7 @@ Criado pela equipe Sanja Valley, este projeto visa desenvolver um Chatbot de ven
 - Github: Utilizado para armazenamento do repositório do Projeto.
 
 ### :writing_hand: Contribuições Pessoais
-- Atuação como Scrum Master, organizando o time, mantendo-o atualizado e acompanhando as atividades de desenvolvimento, bem como atuação junto ao Product Owner para organização das Sprints
-- Documentação
-- Arquitetura inicial do Backend do Projeto com Python e Flask
-- Apoio no desenvolvimento inicial do Chat, implementando as opções do Menu do Chat e rotas iniciais, utilizando Python
-- Criação do Banco de Dados não relacional e suas coleções iniciais (MongoDB)
-- CRUD do carrinho de compras utilizando Python e MongoDB
-- Ajustes do fluxo de conversa com Carrinho de Compras no Python
-- QRCode Pix utilizando a biblioteca qrcode
-- Armazenamento de Logs de Conversa no Backend Python com MongoDB
-- Regras de Validação de mensagens (verificação de datas, números e etc)
-- Associação de compra a e-mail
-- Cálculo do Buffet por quantidade de convidados
-- Correção de Bugs
-- Microserviço para envio de e-mail de alerta conforme a LGPD
-- Organização de Backlogs e Sprints no Jira
+Atuei como Scrum Master, organizando o time, mantendo-o atualizado e acompanhando as atividades de desenvolvimento, bem como atuação junto ao Product Owner para organização das Sprints. Desenvolvi a documentação do projeto e a arquitetura inicial do Backend com Python e Flask. Apoiei o desenvolvimento inicial do Chat, implementando as opções do Menu do Chat e rotas iniciais, utilizando Python, e criei o Banco de Dados não relacional e suas coleções iniciais (MongoDB), bem como o CRUD do carrinho de compras utilizando Python e MongoDB. Realizei ajustes do fluxo de conversa com Carrinho de Compras no Python e implementei o QRCode Pix utilizando a biblioteca qrcode, o armazenamento de Logs de Conversa no Backend Python com MongoDB, regras de Validação de mensagens (verificação de datas, números e etc), associação de compra a e-mail, cálculo do Buffet por quantidade de convidados e o Microserviço para envio de e-mail de alerta conforme a LGPD. Além disso, realizei a correção de bugs.
 
 ### :potted_plant: Skills
 #### Hard Skills
