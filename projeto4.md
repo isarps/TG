@@ -43,16 +43,7 @@ Criado pela equipe Sanja Valley, este projeto visa desenvolver uma aplicação p
 - **GitHub:** Utilizado para repositório e controle de código do projeto.
 
 ### :writing_hand: Contribuições Pessoais
-- Documentação
-- Arquitetura inicial do projeto
-  - Backend utilizando Java SpringBoot
-  - Frontend utilizando VueJS
-  - Banco de Dados utilizando Oracle
-- Dashboard com Gráficos e Cards
-  - Frontend com VueJS e PrimeVue para exibição dos cards e estilização da tela
-- Frontend Importação CSV com VueJS
-- Frontend Login/Cadastro/Edição de Usuário com VueJS
-- Envio de E-mail no Backend utilizando bibliotecas de envio de e-mail do Java, como JavaMailSender e SimpleMailMessage
+Desenvolvi a Aquitetura Inicial do projeto (Backend utilizando Java SpringBoot, Frontend utilizando VueJS, Banco de Dados utilizando Oracle) e implementei a funcionalidade de Dashboard com Gráficos e Cards (Frontend com VueJS e PrimeVue para exibição dos cards e estilização da tela), bem como o Frontend cd Importação CSV com VueJS, o Frontend Login/Cadastro/Edição de Usuário com VueJS e também o envio de E-mail no Backend utilizando bibliotecas de envio de e-mail do Java, como JavaMailSender e SimpleMailMessage. Além disso, apoiei no desenvolvimento da documentação do projeto.
 
 ### :potted_plant: Skills
 #### Hard Skills
