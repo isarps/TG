@@ -16,7 +16,7 @@
     </td>
     <td>
       <p> Olá! Sou a Isabella Segundo, estudante de Banco de Dados na FATEC Prof° Jessen Vidal, em São José dos Campos. </p>
-      <p> Tenho 21 anos, sou técnica em Informática pela ETEC Machado de Assis (Caçapava). Atualmente, atuo como Programadora Junior (Full-Stack) na IACIT. Também exerço a função de Analista de Qualidade e possuo cerificação CMMI Associate.</p>
+      <p> Tenho 22 anos, sou técnica em Informática pela ETEC Machado de Assis (Caçapava). Atualmente, atuo como Programadora Junior (Full-Stack) na IACIT. Também exerço a função de Analista de Qualidade e possuo cerificação CMMI Associate.</p>
       <p> A IACIT foi fundada em 1986, com sede em São José dos Campos (SP), e possui capacitação tecnológica para o desenvolvimento de produtos e sistemas aplicados às áreas de Auxílio do Controle e do Tráfego Aéreo e Marítimo; Defesa e Segurança Pública; Fábrica de Software; Meteorologia; Pesquisa, Desenvolvimento e Inovação; Telemetria e Agronegócio. </p>
       <p> Trabalhei com as tecnologias C#, ASP.NET, Entity Framework, Oracle, JavaScript, JQuery, Java, Spring Boot, PostgreSQL, ReactJS, NextJS, entre outras, e ferramentas como Git, Jira, Trello e etc. </p>
     </td>
